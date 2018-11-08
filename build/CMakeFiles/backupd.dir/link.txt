@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/backupd.dir/backupd.c.o CMakeFiles/backupd.dir/event.c.o CMakeFiles/backupd.dir/handler.c.o  -o backupd -levent -levent_pthreads -lpthread -lzlog 
